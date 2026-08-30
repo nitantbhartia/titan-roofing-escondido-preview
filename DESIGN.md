@@ -1,7 +1,8 @@
 # Titan Roofing Escondido — design context
 
-- Direction: roofline / technical
-- Audience: a local property owner deciding whether to make the first call.
-- Visual system: roofline palette, Iowan Old Style, Georgia, serif display type, direct-line CTA, public-facts proof strip, and a local abstract hero illustration.
-- Content rule: public rating and service lines are visible; unknown hours, exact address, and scope are not invented.
-- Conversion goal: call the business, review the source, or scan the named service lines.
+- North star: Roof decisions, made from the source.
+- Composition: cinema; chosen to avoid the shared-template look.
+- Palette: ink #171b18, accent #e7a35a, paper #f5f0e8.
+- Signature asset: business-specific, illustrative trade photography.
+- Content rule: only public rating, review count, phone, market, and service lines are stated as facts.
+- Anti-reference: no abstract placeholder art, generic gradient hero, fake testimonials, invented guarantees, or clone section rhythm.
